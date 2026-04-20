@@ -23,7 +23,7 @@ public class App {
         burbuja.sort(numeros, true);;
         burbuja.printArreglo(numeros);
         burbuja.sort(numeros, false);
-        
+        burbuja.printArreglo(numeros);
 
     }
 }
